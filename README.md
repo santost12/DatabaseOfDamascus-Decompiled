@@ -1,2 +1,1 @@
-# DatabaseOfDamascus-Decompiled
-Database of Damascus Decompiled
+All credit to https://github.com/InkboxSoftware/DatabaseOfDamascus
